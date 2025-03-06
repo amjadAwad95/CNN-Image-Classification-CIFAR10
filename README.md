@@ -79,7 +79,7 @@ Several challenges were encountered during the project:
 ## How to Run the Code
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/image-classification-cnn.git
+   git clone https://github.com/amjadAwad95/CNN-Image-Classification-CIFAR10.git
    cd image-classification-cnn
    ```
 2. Install Dependencies:
