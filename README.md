@@ -80,7 +80,7 @@ Several challenges were encountered during the project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/amjadAwad95/CNN-Image-Classification-CIFAR10.git
-   cd image-classification-cnn
+   cd CNN-Image-Classification-CIFAR10
    ```
 2. Install Dependencies:
    ```bash
