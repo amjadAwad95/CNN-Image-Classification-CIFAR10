@@ -83,8 +83,8 @@ Several challenges were encountered during the project:
    cd image-classification-cnn
    ```
 2. Install Dependencies:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## Conclusion
 This project demonstrated the process of building and improving a CNN model for image classification on the CIFAR-10 dataset. Various modifications were applied to the baseline model, and their impact on performance was analyzed. The best-performing model achieved a test accuracy of 73% using data augmentation. The challenges encountered, such as poor image resolution and long training times, provided valuable insights into the complexities of working with image datasets in machine learning.
